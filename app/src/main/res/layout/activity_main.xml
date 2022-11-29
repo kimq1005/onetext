@@ -22,7 +22,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:text="널 브런치2에 옮길거야"
+        android:text="나는 브런치 2야 브런치 1아 내위로 와주겠니?"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
