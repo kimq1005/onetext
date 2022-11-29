@@ -8,5 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //널 브런치2에 옮겨 줄거야 ㅇㅋ?
+        //barnch2
+        //barnch2
+        //barnch2
+        //barnch2
     }
 }
