@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //먹킷 진짜 완료
+        //FAQ QA 3차 완료
     }
 }
