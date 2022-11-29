@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //branch1 branch1 /branch1 branch1 /branch1 branch1 /branch1 branch1
+        //branch2 test
     }
 }
