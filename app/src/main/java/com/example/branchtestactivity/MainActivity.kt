@@ -7,6 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //널 브런치2에 옮겨 줄거야 ㅇㅋ?
+        //나도 브런치2로 갈거야 근데 브런치1에는 있어야해!
     }
 }
